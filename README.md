@@ -31,7 +31,7 @@ _______________________________________________________________
 `clone` this repo and try `./gfolf.sh`
 
 GFOLF ships with a distribution of
-(pyglet)[https://bitbucket.org/pyglet/pyglet/wiki/Home].
+[pyglet](https://bitbucket.org/pyglet/pyglet/wiki/Home).
 Nothing needs to be installed, but pyglet does need to be built
 for python3. This is done automatically by `gfolf.sh`. It might
 take a bit, but it only runs once. You may want to get a snack.
