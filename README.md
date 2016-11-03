@@ -13,7 +13,7 @@ BALL, and the warrior-poets known as GFOLFers enforce their LAW
 with a FIVE-IRON FIST. In the future, the word "SURVIVAL" means
 TO WIN. It is a future you feared, but a future you've chosen.*
 
-          IN THE FUTURE... THERE IS ONLY **GFOLF**.
+*IN THE FUTURE... THERE IS ONLY **GFOLF**.*
 
 _______________________________________________________________
 
