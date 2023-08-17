@@ -1,3 +1,6 @@
+_Moved to:_ https://gitlab.com/krampus/gfolf
+
+
 # GFOLF
 _______
 
